@@ -1,11 +1,12 @@
-2352b4bb0d9a5619292dd0437967f2a7 *DESCRIPTION
+9280f5eeac5a4fcc5e31053a0a13b186 *DESCRIPTION
 48d63b96f9e3b280d0422ca0f6e0eeae *LICENSE
-6a67e9c9fc652b954546338b5c605c5d *NAMESPACE
-dd99792c2d31fc4c7dec11cc66ab1ff3 *R/functions.R
-340fafe8a4cc9b053139949a13ccb41f *build/vignette.rds
+b8be0c718ea1f18d472ea5a9e9beec26 *NAMESPACE
+d044a3edd5c6e6b7f43c7f82e1b56813 *R/functions.R
+2a464559023ff30f30e3c43767290d20 *build/vignette.rds
 9747834c21d6b4243c31bfd0a7dc4a39 *inst/doc/viztest_intro.R
 f2634f3d1836b8ea944804828bdfd878 *inst/doc/viztest_intro.Rmd
-ea847f8a33245db8427b2abed8addf6e *inst/doc/viztest_intro.html
+41c2e41e78aa96daf50880daca903ef9 *inst/doc/viztest_intro.html
+0bb7205208af379e2cd2f3984e01fd20 *man/gen_z.Rd
 bb0fbb714d803adb2e2c394f307ab901 *man/make_diff_template.Rd
 396c7eecdae0986398055df07ef87e8d *man/make_vt_data.Rd
 1ccb020a7e9e6fb3fc266bd182fe4939 *man/plot.viztest.Rd
